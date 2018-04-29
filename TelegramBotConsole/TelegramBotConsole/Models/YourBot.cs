@@ -10,7 +10,7 @@ namespace TelegramBotConsole.Models
 {
     class YourBot
     {
-        public string token = "******************************";
+        public string token = "487892625:AAGZqoPu5saMffmgf-DzpiQgGckjU6PdIUA";
         public static Telegram.Bot.TelegramBotClient Bot;
         public async void testApiAsync()
         {
